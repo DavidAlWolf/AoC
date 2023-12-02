@@ -1,2 +1,3 @@
 # AoC
  
+Learning python with the AoC...
